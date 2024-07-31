@@ -1,0 +1,21 @@
+.tableDataCell {
+    border: 1px solid black !important;
+    text-align: center
+}
+
+.tableCellImage {
+    text-align: center
+}
+
+.tableHeader {
+    width:200px;
+}
+
+.tableImageHeader {
+    width: 40px;
+
+}
+
+.tableHeaderId {
+    width:50px;
+}
